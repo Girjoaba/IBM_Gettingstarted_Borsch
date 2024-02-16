@@ -1,6 +1,10 @@
 # IBM_Gettingstarted
 
+## About 
+### Company discription
+IBM is the global leader in business transformation through an open hybrid cloud platform and AI, serving clients in more than 170 countries around the world. Today 47 of the Fortune 50 companies rely on IBM technology consisting of infrastructure, cloud, data & AI, automation and cybersecurity solutions. IBM has a strong focus on innovation and customer satisfaction and is committed to helping its clients navigating through the complexities of the digital age, fostering sustainable growth and competitive advantage by seamlessly integrating cutting-edge solutions with expert insights.
 
+### Hack Coaches 
 - <img alt="Christian Muszynski" src="pics/christianm.png" width=250 /> Christian Muszynski - [@Christian Muszynski (IBM)](https://bcx2024.slack.com/archives/D06FQS251U1)
 - <img alt="Florian Lutz" src="pics/flux.jpg" width=250 /> Florian Lutz -  [@flux](https://bcx2024.slack.com/archives/D06FELQ8TDJ)
 - <img alt="Christian Baltzer" src="pics/christianb.jpg" width=250 /> Christian Baltzer - [@Lena Kohler (IBM)](https://bcx2024.slack.com/archives/D06GCL1V1E1)
