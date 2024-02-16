@@ -14,3 +14,11 @@ IBM is the global leader in business transformation through an open hybrid cloud
 - <img alt="Michele Dolfi" src="pics/michele.png" width=250 /> Michele Dolfi - [@Michele Dolfi (IBM)](https://bcx2024.slack.com/team/U06J6UZ4CQZ)
 - <img alt="Rene Meyer" src="pics/rene.png" width=250 /> Rene Meyer 
 - <img alt="Ingo Hinkel" src="pics/ingo.jpg" width=250 /> Ingo Hinkel - [@Ingo Hinkel](https://bcx2024.slack.com/team/U06JRA1JN9Y)
+
+## What do we bring
+- IBM Cloud ressources
+- Watsonx plattform (with LLM capability’s) 
+- IBM Research Asset "Deep Search"
+
+IBM watsonx™ AI and data platform includes three core components and a set of AI assistants designed to help you scale and accelerate the impact of AI with trusted data across your business.
+The core components include: a studio for new foundation models, generative AI and machine learning; a fit-for-purpose data store built on an open data lakehouse architecture; and a toolkit, to accelerate AI workflows that are built with responsibility, transparency and explainability. 
