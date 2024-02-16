@@ -22,3 +22,18 @@ IBM is the global leader in business transformation through an open hybrid cloud
 
 IBM watsonx™ AI and data platform includes three core components and a set of AI assistants designed to help you scale and accelerate the impact of AI with trusted data across your business.
 The core components include: a studio for new foundation models, generative AI and machine learning; a fit-for-purpose data store built on an open data lakehouse architecture; and a toolkit, to accelerate AI workflows that are built with responsibility, transparency and explainability. 
+
+## Sample Scenarios 
+### Provided Hack Challenges 
+1. Deep Search: from unstructured mess to actionable knowledge!
+2. Take your journey to the next level: Enhance Driving experience with context based information
+3. Factory as code seamless integration to the network Edge
+### Other Sample hacks
+
+## Getting started 
+### Need to know
+- Provide any important information or prerequisites participants should be aware of
+### Prebuilt Container Images
+- List any prebuilt container images or software packages participants can use
+
+
