@@ -3,9 +3,9 @@
 
 Improving the driving experience with context-aware information can make journeys more personalized, engaging, and enjoyable for everyone in the car. This use case aims to use advanced technology to include real-time, context-based information in the vehicle's infotainment system. This provides an interactive and informative experience for passengers and drivers alike.
 
-## Project overview
+## Project Overview
 ### User Story:
-   As driver, passenger, commuter I want my vehicle to incorporate its information of the surroundings and context to interact with me so that I can have more personal, interesting, and enjoyable experience on my journey.
+As a driver, passenger, or commuter I want my vehicle to incorporate information about the surroundings and context to interact with me to have a more personal, interesting, and enjoyable experience on my journey.
 
 ### Example Scenario:
    Create a delightful experience: Use AI/LLM to generate game-show-style questions from Wikipedia information about the surroundings for in-car entertainment.
@@ -20,7 +20,7 @@ Improving the driving experience with context-aware information can make journey
    - [IBM watsonx Assistant Virtual Agent](https://www.ibm.com/products/watsonx-assistant): powerful conversational AI capabilities
    - [watsonx.ai](https://www.ibm.com/products/watsonx-ai): IBM’s AI and data platform, bringing together new generative AI capabilities powered by foundation models and traditional machine learning (ML)
    - [IBM Watson Speech to Text](https://www.ibm.com/products/speech-to-text): enables fast and accurate speech transcription in multiple languages for a variety of use cases
-   - [IBM Watson Text to Speech](https://www.ibm.com/products/text-to-speech): enables you to convert written text into natural-sounding audio in a variety of languages and voices within an existing application or within watsonx Assistant.
+   - [IBM Watson Text to Speech](https://www.ibm.com/products/text-to-speech): enables you to convert written text into natural-sounding audio in a variety of languages and voices within an existing application or watsonx Assistant.
  
 
 ### Resources and Documentation
@@ -45,6 +45,7 @@ Demos
 - [Overview of IBM watsonx](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx&audience=wdp)
 - [Supported foundation models available with watsonx.ai](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx&audience=wdp)
 - [Watson Machine Learning SDK](https://ibm.github.io/watson-machine-learning-sdk/foundation_models.html)
+- [Example Notebooks](https://github.com/IBM/watson-machine-learning-samples/tree/master/cpd4.8/notebooks/python_sdk/deployments/foundation_models)
 
 #### Architecture
 
