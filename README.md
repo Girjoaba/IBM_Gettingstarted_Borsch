@@ -1,8 +1,23 @@
 # IBM_Gettingstarted
 
-## About 
+## Inhaltsverzeichnis
+- [About IBM](#about-ibm)
+  - [Company discription](#company-discription)
+  - [Hack Coaches](#hack-coaches)
+- [What do we bring](#what-do-we-bring)
+- [Sample Scenarios](#sample-scenarios)
+   - [Provided Hack Challenges](#provided-hack-challenges)
+   - [Other Challenges we participate](#other-challenges-we-participate)
+- [Getting started](#getting-started)
+   - [Use Case 1](#use-case-1)
+   - [Use Case 2](#use-case-2)
+
+
+
+## About IBM
 ### Company discription
 IBM is the global leader in business transformation through an open hybrid cloud platform and AI, serving clients in more than 170 countries around the world. Today 47 of the Fortune 50 companies rely on IBM technology consisting of infrastructure, cloud, data & AI, automation and cybersecurity solutions. IBM has a strong focus on innovation and customer satisfaction and is committed to helping its clients navigating through the complexities of the digital age, fostering sustainable growth and competitive advantage by seamlessly integrating cutting-edge solutions with expert insights.
+
 
 ### Hack Coaches 
 - <img alt="Christian Muszynski" src="pics/christianm.png" width=250 /> Christian Muszynski - [@Christian Muszynski (IBM)](https://bcx2024.slack.com/archives/D06FQS251U1)
@@ -82,45 +97,12 @@ Context aware passenger augmentation. Enhance driving experience by including co
 <img width="400" alt="image" src="https://github.com/Bosch-ConnectedExperience-2024/IBM_Gettingstarted/assets/141270724/987f4f00-592a-4aaa-b74d-17c3423921b8">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            
-
-
-
-
-
-
-
-
-
-
-
-
-### Other Sample hacks
+### Other Challenges we participate
 
 ## Getting started 
-### Need to know
-- Provide any important information or prerequisites participants should be aware of
-### Prebuilt Container Images
-- List any prebuilt container images or software packages participants can use
+### Use Case 1
+- Link to GitHub Page
+### Use Case 2
+- Link to Github Page 
 
 
