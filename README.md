@@ -1,6 +1,6 @@
 # IBM_Gettingstarted
 
-## Inhaltsverzeichnis
+## Table of content
 - [About IBM](#about-ibm)
   - [Company discription](#company-discription)
   - [Hack Coaches](#hack-coaches)
