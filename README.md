@@ -25,9 +25,96 @@ The core components include: a studio for new foundation models, generative AI a
 
 ## Sample Scenarios 
 ### Provided Hack Challenges 
-1. Deep Search: from unstructured mess to actionable knowledge!
-2. Take your journey to the next level: Enhance Driving experience with context based information
-3. Factory as code seamless integration to the network Edge
+#### 1. Master the Daily Chaos turn any document overflow into ACTIONABLE INSIGHTS!
+
+Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrieve information from large set of unstructured documents.
+
+   User Story:
+   As a work professional (of any domain), I want to retrieve specific information from a large number of unstructured company information/data sheets/ESG reports using natural language, without the risk of misrepresented data. So
+   that I can make informed decision quickly, based on large volumes of data.
+
+   Example Scenarios:
+   Every organization is built on documents, from legal briefs, financial statements, and technical specifications, to research papers, and slide decks. These documents are packed with valuable information, but their contents             are often not easy to search, because they’re in an unstructured format that can’t be accessed easily.
+
+   Let’s change that! Make information seamlessly discoverable with state-of-the-art AI methods.
+
+
+   Getting Started:
+   Links:
+   - https://sds.app.accelerate.science/
+   - https://ds4sd.github.io/
+
+  Further Information:
+  - IBM Deep Search IBM watsonx.ai
+
+  Hack Partners / Coaches:
+  - IBM Research in Zurich - Michele Dolfi – Senior Technical Staff Member.
+  - IBM Client Engineering Team industrial
+
+ <img width="400" alt="image" src="https://github.com/Bosch-ConnectedExperience-2024/IBM_Gettingstarted/assets/141270724/300f26d2-90d7-4426-b28f-3ec83ece2527">
+
+
+
+#### 2. Enjoy the ride with CONTEXT-BASED INFORMATION on the go!
+
+Context aware passenger augmentation. Enhance driving experience by including context aware information.
+
+   User Story:
+   As driver, passenger, commuter I want my vehicle to incorporate its information of the surroundings and context to interact with me so that I can have more personal, interesting, and enjoyable experience on my journey.
+
+   Example Scenario:
+   Create a delightful experience: Use AI/LLM to generate game-show-style questions from Wikipedia information about the surroundings for in-car entertainment.
+
+   Getting started:
+   Links:
+   - tbd.
+
+   Further Information:
+  - IBM Cloud.
+  - IBM Watson assistant.
+  
+  
+  Hack Partners / Coaches:
+  - IBM Client Engineering – Hazem Ben Sassi (Data Scientist)
+  - IBM Client Engineering – Christian Baltzer (IT Specialist)
+  - IBM Client Engineering Team industrial  
+
+<img width="400" alt="image" src="https://github.com/Bosch-ConnectedExperience-2024/IBM_Gettingstarted/assets/141270724/987f4f00-592a-4aaa-b74d-17c3423921b8">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
 ### Other Sample hacks
 
 ## Getting started 
