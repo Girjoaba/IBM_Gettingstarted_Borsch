@@ -44,17 +44,17 @@ The core components include: a studio for new foundation models, generative AI a
 
 Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrieve information from large set of unstructured documents.
 
-   User Story:
+   ##### User Story:
    As a work professional (of any domain), I want to retrieve specific information from a large number of unstructured company information/data sheets/ESG reports using natural language, without the risk of misrepresented data. So
    that I can make informed decision quickly, based on large volumes of data.
 
-   Example Scenarios:
+   ##### Example Scenarios:
    Every organization is built on documents, from legal briefs, financial statements, and technical specifications, to research papers, and slide decks. These documents are packed with valuable information, but their contents             are often not easy to search, because they’re in an unstructured format that can’t be accessed easily.
 
    Let’s change that! Make information seamlessly discoverable with state-of-the-art AI methods.
 
 
-   Getting Started:
+   ##### Getting Started:
    Links:
    - https://sds.app.accelerate.science/
    - https://ds4sd.github.io/
@@ -74,13 +74,13 @@ Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrie
 
 Context aware passenger augmentation. Enhance driving experience by including context aware information.
 
-   User Story:
+   ##### User Story:
    As driver, passenger, commuter I want my vehicle to incorporate its information of the surroundings and context to interact with me so that I can have more personal, interesting, and enjoyable experience on my journey.
 
-   Example Scenario:
+   ##### Example Scenario:
    Create a delightful experience: Use AI/LLM to generate game-show-style questions from Wikipedia information about the surroundings for in-car entertainment.
 
-   Getting started:
+   ##### Getting started:
    Links:
    - tbd.
 
