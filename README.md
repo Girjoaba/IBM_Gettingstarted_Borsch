@@ -75,19 +75,13 @@ Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrie
 Context-aware passenger augmentation. Enhance the driving experience by including context-aware information.
 
    ##### User Story:
-   As a driver, passenger, or commuter I want my vehicle to incorporate its information about the surroundings and context to interact with me to have a more personal, interesting, and enjoyable experience on my journey.
+   As a driver, passenger, or commuter I want my vehicle to incorporate information about the surroundings and context to interact with me to have a more personal, interesting, and enjoyable experience on my journey.
 
    ##### Example Scenario:
    Create a delightful experience: Use AI/LLM to generate game-show-style questions from Wikipedia information about the surroundings for in-car entertainment.
 
-   ##### Getting started:
-   Links:
-   - tbd.
-
-   Further Information:
-  - IBM Cloud.
-  - IBM Watson assistant.
-  
+  Getting started:
+ - [Link to GitHub Page](use-case-2/README.md)
   
   Hack Partners / Coaches:
   - IBM Client Engineering – Hazem Ben Sassi (Data Scientist)
