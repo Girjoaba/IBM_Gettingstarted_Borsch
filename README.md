@@ -55,12 +55,13 @@ Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrie
 
 
    ##### Getting Started:
-   Links:
-   - https://sds.app.accelerate.science/
-   - https://ds4sd.github.io/
 
-  Further Information:
-  - IBM Deep Search IBM watsonx.ai
+   Getting started:
+      - [Link to GitHub Page](use-case-1/README.md)
+
+  Proposed tools:
+  - IBM Deep Search
+  - IBM watsonx.ai
 
   Hack Partners / Coaches:
   - IBM Research in Zurich - Michele Dolfi – Senior Technical Staff Member.

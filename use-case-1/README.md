@@ -11,14 +11,44 @@ Every organization is built on documents, from legal briefs, financial statement
 
 Let’s change that! Make information seamlessly discoverable with state-of-the-art AI methods.
 
+
 ## Getting Started:
+
+Proposed tools:
+- IBM Deep Search
+- IBM watsonx.ai
+
+
 Links:
-   - https://sds.app.accelerate.science/
-   - https://ds4sd.github.io/
+   - [IBM Deep Search](https://ds4sd.github.io/)
+   - [Examples](https://github.com/DS4SD/deepsearch-examples)
+   - [Live system!](https://sds.app.accelerate.science/)
 
-  Further Information:
-  - IBM Deep Search IBM watsonx.ai
+### Resources and Documentation
 
+#### Deep Search
+
+- [IBM Deep Search landing page](https://ds4sd.github.io/)
+- [Deep Search Toolkit](https://ds4sd.github.io/deepsearch-toolkit)
+   - [Configure CLI and SDK](https://ds4sd.github.io/deepsearch-toolkit/guide/configuration/)
+- [Examples](https://github.com/DS4SD/deepsearch-examples)
+
+
+#### Watsonx.ai
+
+- [Overview of IBM watsonx](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx&audience=wdp)
+- [Supported foundation models available with watsonx.ai](https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-models.html?context=wx&audience=wdp)
+- [Watson Machine Learning SDK](https://ibm.github.io/watson-machine-learning-sdk/foundation_models.html)
+- [Example Notebooks](https://github.com/IBM/watson-machine-learning-samples/tree/master/cpd4.8/notebooks/python_sdk/deployments/foundation_models)
+
+
+### Hackthon guides
+
+- [On-boarding requests](./guides/onboarding.md)
+- [Connect Deep Search with watsonx.ai](./guides/connect_watsonx.md)
+
+
+### Hack Partners / Coaches:
   Hack Partners / Coaches:
   - IBM Research in Zurich - Michele Dolfi – Senior Technical Staff Member.
   - IBM Client Engineering Team industrial
