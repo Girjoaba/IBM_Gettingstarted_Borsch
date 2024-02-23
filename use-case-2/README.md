@@ -25,6 +25,8 @@ As a driver, passenger, or commuter I want my vehicle to incorporate information
 
 ### Resources and Documentation
 
+Check how to [create a project](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/projects.html?context=cpdaas) and [add associated services to it](https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/assoc-services.html?context=cpdaas).
+
 #### Watsonx Assistant
 Documentation
 - [Official documentation](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-welcome-new-assistant)
