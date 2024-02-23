@@ -11,6 +11,7 @@
 - [Getting started](#getting-started)
    - [Use Case 1](#use-case-1)
    - [Use Case 2](#use-case-2)
+   - [Use Case 3](#use-case-3)
 
 
 
@@ -29,6 +30,7 @@ IBM is the global leader in business transformation through an open hybrid cloud
 - <img alt="Michele Dolfi" src="pics/michele.png" width=250 /> Michele Dolfi - [@Michele Dolfi (IBM)](https://bcx2024.slack.com/team/U06J6UZ4CQZ)
 - <img alt="Rene Meyer" src="pics/rene.png" width=250 /> Rene Meyer 
 - <img alt="Ingo Hinkel" src="pics/ingo.jpg" width=250 /> Ingo Hinkel - [@Ingo Hinkel](https://bcx2024.slack.com/team/U06JRA1JN9Y)
+- <img alt="Hendrik van Niekerk" src="pics/hendrik.png" width=250> Hendrik van Niekerk - [@Hendrik van Niekerk](https://bcx2024.slack.com/archives/D06J3RV2EB1)
 
 ## What do we bring
 - IBM Cloud ressources
@@ -99,5 +101,7 @@ Context-aware passenger augmentation. Enhance the driving experience by includin
 - [Link to GitHub Page](use-case-1/README.md)
 ### Use Case 2
 - [Link to GitHub Page](use-case-2/README.md)
+### Use Case 3
+- [Link to GitHub Page](use-case-3/README.md)
 
 
