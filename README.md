@@ -56,10 +56,8 @@ Digital.industry: AI Data Synthesis from Vast Document Realms Catalog and retrie
    Let’s change that! Make information seamlessly discoverable with state-of-the-art AI methods.
 
 
-   ##### Getting Started:
-
    Getting started:
-      - [Link to GitHub Page](use-case-1/README.md)
+    - [Link to GitHub Page](use-case-1/README.md)
 
   Proposed tools:
   - IBM Deep Search
@@ -87,7 +85,7 @@ Context-aware passenger augmentation. Enhance the driving experience by includin
  - [Link to GitHub Page](use-case-2/README.md)
   
   Hack Partners / Coaches:
-  - IBM Client Engineering – Hazem Ben Sassi (Data Scientist)
+  - IBM Client Engineering – Hazem Ben Sassi (AI Engineer)
   - IBM Client Engineering – Christian Baltzer (IT Specialist)
   - IBM Client Engineering Team industrial  
 
