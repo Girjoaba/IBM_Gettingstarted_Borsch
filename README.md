@@ -12,8 +12,7 @@
    - [Use Case 1](#use-case-1)
    - [Use Case 2](#use-case-2)
    - [Use Case 3](#use-case-3)
-
-
+- [Access to IBM Cloud Account Resources](ibm-cloud-access.md)   
 
 ## About IBM
 ### Company description
