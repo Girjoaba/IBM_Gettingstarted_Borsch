@@ -1,4 +1,5 @@
 # Manage your Factory devices from OS to application, the GitOps way!
+<img src="images/factoryAsCode.png" alt="Organizing and automating the chaos" width="400">
  
 Digital.industry: 
 ## Project overview
