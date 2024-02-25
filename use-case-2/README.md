@@ -14,12 +14,13 @@ As a driver, passenger, or commuter I want my vehicle to incorporate information
 
 ### Prerequisites
 - IBM Cloud account: You will have access to IBM Cloud and can browse the [catalog for different products.](https://cloud.ibm.com/catalog)
+   - IBM's hack coaches will grant you access to IBM Cloud.  
 - Good knowledge of Python and working with APIs.
 
 ### Recommended products and tools
-   - [IBM watsonx Assistant Virtual Agent](https://www.ibm.com/products/watsonx-assistant): powerful conversational AI capabilities
-   - [watsonx.ai](https://www.ibm.com/products/watsonx-ai): IBM’s AI and data platform, bringing together new generative AI capabilities powered by foundation models and traditional machine learning (ML)
-   - [IBM Watson Speech to Text](https://www.ibm.com/products/speech-to-text): enables fast and accurate speech transcription in multiple languages for a variety of use cases
+   - [IBM watsonx Assistant Virtual Agent](https://www.ibm.com/products/watsonx-assistant): powerful conversational AI capabilities.
+   - [watsonx.ai](https://www.ibm.com/products/watsonx-ai): IBM’s AI and data platform, bringing together new generative AI capabilities powered by foundation models and traditional machine learning (ML).
+   - [IBM Watson Speech to Text](https://www.ibm.com/products/speech-to-text): enables fast and accurate speech transcription in multiple languages for a variety of use cases.
    - [IBM Watson Text to Speech](https://www.ibm.com/products/text-to-speech): enables you to convert written text into natural-sounding audio in a variety of languages and voices within an existing application or watsonx Assistant.
  
 
