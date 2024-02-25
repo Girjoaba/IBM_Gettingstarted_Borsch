@@ -1,7 +1,7 @@
 # Enjoy the ride with CONTEXT-BASED INFORMATION on the go!
 <img width="500" alt="image" src="https://github.com/Bosch-ConnectedExperience-2024/IBM_Gettingstarted/assets/141270724/987f4f00-592a-4aaa-b74d-17c3423921b8">
 
-Improving the driving experience with context-aware information can make journeys more personalized, engaging, and enjoyable for everyone in the car. This use case aims to use advanced technology to include real-time, context-based information in the vehicle's infotainment system. This provides an interactive and informative experience for passengers and drivers alike.
+Improving the driving experience with context-aware information can make journeys more personalized, engaging, and enjoyable for everyone in the car. This use case aims to use advanced technology to include real-time and context-based information in the vehicle's infotainment system. This provides an interactive and informative experience for both the passengers and drivers.
 
 ## Project Overview
 ### User Story:
