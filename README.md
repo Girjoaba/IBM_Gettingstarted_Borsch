@@ -2,7 +2,7 @@
 
 ## Table of content
 - [About IBM](#about-ibm)
-  - [Company discription](#company-discription)
+  - [Company description](#company-description)
   - [Hack Coaches](#hack-coaches)
 - [What do we bring](#what-do-we-bring)
 - [Sample Scenarios](#sample-scenarios)
