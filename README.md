@@ -20,7 +20,7 @@ IBM is the global leader in business transformation through an open hybrid cloud
 
 
 ### Hack Coaches 
-| <img alt="Christian Muszynski" src="pics/profile_ChristianMuszynski.jpg" width=200 href="https://bcx2024.slack.com/archives/D06FQS251U1"/>
+| <img alt="Christian Muszynski" src="pics/profile_ChristianMuszynski.jpg" width=200 /> |
 | <img alt="Florian Lutz" src="pics/profile_Flux.jpg" width=200 /> |
 | <img alt="Christian Baltzer" src="pics/profile_ChristianBaltzer.jpg" width=200 /> |
 | <img alt="Lena Kohler" src="pics/profile_Lena.jpg" width=200 /> |
@@ -30,6 +30,18 @@ IBM is the global leader in business transformation through an open hybrid cloud
 | <img alt="Rene Meyer" src="pics/profile_Rene.jpg" width=200 /> |
 | <img alt="Ingo Hinkel" src="pics/profile_Ingo.jpg" width=200 /> |
 | <img alt="Hendrik van Niekerk" src="pics/profile_Hendrik.jpg" width=200> |
+
+- Christian Muszynski - [@Christian Muszynski (IBM)](https://bcx2024.slack.com/archives/D06FQS251U1)
+- Florian Lutz -  [@flux](https://bcx2024.slack.com/archives/D06FELQ8TDJ)
+- Christian Baltzer - [@Lena Kohler (IBM)](https://bcx2024.slack.com/archives/D06GCL1V1E1)
+- Lena Kohler - [@Lena Kohler (IBM)](https://bcx2024.slack.com/archives/D06GCL1V1E1)
+- Hazem Ben Sassi - [@Hazem](https://bcx2024.slack.com/team/U06HP1K1EH3)
+- Maria Sánchez - [@Maria Sánchez](https://bcx2024.slack.com/team/U06J2FQ0UM8)
+- Michele Dolfi - [@Michele Dolfi (IBM)](https://bcx2024.slack.com/team/U06J6UZ4CQZ)
+- Rene Meyer - [@Rene Meyer](https://bcx2024.slack.com/team/U06K9B16U76)
+- Ingo Hinkel - [@Ingo Hinkel](https://bcx2024.slack.com/team/U06JRA1JN9Y)
+- Hendrik van Niekerk - [@Hendrik van Niekerk](https://bcx2024.slack.com/archives/D06J3RV2EB1)
+
 
 ## What do we bring
 - IBM Cloud ressources
