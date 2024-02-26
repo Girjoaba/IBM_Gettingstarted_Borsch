@@ -15,18 +15,26 @@ Let's build a platform that can manage and deploy to the device of choice, whete
 Need access to Red Hat software for testing and development? Sign up at https://developers.redhat.com/
 
 ## Recommended products and tools
-  - Openshift - try the [pre-configured sandbox](https://console.redhat.com/openshift/sandbox) or order one directly on IBM Cloud
+  - Openshift - try the [pre-configured sandbox](https://console.redhat.com/openshift/sandbox) or [order one directly on IBM Cloud](../ibm-cloud-access.md)
   - Using Ansible playbooks, try [Ansible Lightspeed with WatsonX](https://developers.redhat.com/products/ansible/lightspeed)
   - Need an MLOps platform? have a look at [OpenSift AI](https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai)
   - Using Ansible playbooks, try [Ansible Lightspeed with IBM WatsonX Code Assistant](https://developers.redhat.com/products/ansible/lightspeed)
 
 ## Demos
   - Pre-configured RHEL environment for [GitOps using Event Driven Ansible and Red Hat Device Edge](https://www.youtube.com/watch?v=XCtfy7AqLLY&t=1525s)
-  [This environment](https://github.com/redhat-manufacturing/device-edge-workshops/blob/gitops-demo/exercises/rhde_gitops/demo/README.md) is setup at the venue. Contact the hack coach for access
+  [the source](https://github.com/redhat-manufacturing/device-edge-workshops/blob/gitops-demo/exercises/rhde_gitops/demo/README.md) 
+  Infra for this demo is setup at the venue. Contact the hack coach for access  
+  <img src="images/rhdeGitOps.png" alt="Organizing and automating the chaos" width="400">
 
 ## More Information:
   - Tunnel connections between services using [Red Hat Service Interconnect (Skupper)](https://access.redhat.com/documentation/en-us/red_hat_service_interconnect/1.4/html/introduction/index)
   - [Secure Device onboarding using FDO](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/composing_installing_and_managing_rhel_for_edge_images/assembly_automatically-provisioning-and-onboarding-rhel-for-edge-devices_composing-installing-managing-rhel-for-edge-images#:~:text=The%20FIDO%20Device%20Onboarding%20(FDO)%20process%20automatically%20provisions%20and%20onboards,should%20run%20on%20secure%20networks)
+
+## Documentation
+  - [Red Hat Device Edge](https://access.redhat.com/documentation/en-us/red_hat_device_edge/4/html/overview/device-edge-overview)
+  - [Real-time RHEL](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/9)
+  - [Openshift AI](https://access.redhat.com/documentation/en-us/red_hat_openshift_ai/2024)
+  - [Documentation by product](https://access.redhat.com/products/?product-tab=glossary)
 
 ## Hack Partners / Coaches:
   - Red Hat - Hendrik van Niekerk [@Hendrik van Niekerk](https://bcx2024.slack.com/archives/D06J3RV2EB1) 
