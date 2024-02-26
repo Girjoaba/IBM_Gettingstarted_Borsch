@@ -36,6 +36,7 @@ Documentation
 - [Learning resources](https://www.ibm.com/products/watsonx-assistant/resources/learning/)
 
 Extensions
+- [Integrate watsonx Assistant with watsonx.ai foundation models](https://developer.ibm.com/tutorials/integrate-your-watson-assistant-chatbot-with-watsonxai-for-generative-ai/)
 - [Building a custom extension](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-build-custom-extension)
 - [Starter kits](https://github.com/watson-developer-cloud/assistant-toolkit/tree/master/integrations/extensions/starter-kits)
 
